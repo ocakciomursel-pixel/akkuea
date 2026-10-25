@@ -91,3 +91,4 @@ Welcome to Akkuea's documentation. **Start with [`strategy/product-brief.md`](st
 
 - Create an issue in the [GitHub repository](https://github.com/akkuea/akkuea/issues)
 - See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for the contribution workflow
+
